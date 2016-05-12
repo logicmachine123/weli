@@ -1,0 +1,27 @@
+{
+  "name": "weli",
+  "homepage": "https://github.com/Desters/weli",
+  "authors": [
+    "appsdest@gmail.com"
+  ],
+  "description": "icons Selection",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "icons",
+    "modern",
+    "icons",
+    "danger",
+    "icons",
+    "social",
+    "icons"
+  ],
+  "license": "GNU",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
