@@ -1,4 +1,4 @@
-# We Love Icons - The icons Selection
+# We Love Icons - Professional icons selection
 
 There are several icons from warnings to the logos of social networks, we hope you enjoy.
 
